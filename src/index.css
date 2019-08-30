@@ -10,6 +10,11 @@ h3 {
   color: #77a3d5;
 }
 
-.container{
-  margin-top: 5%;
+.container div{
+  margin-top: 2%;
 }
+
+.container{
+  margin-bottom:  2%;
+}
+
